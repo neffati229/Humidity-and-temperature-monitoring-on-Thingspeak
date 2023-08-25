@@ -1,6 +1,8 @@
-#include <dummy.h>
+
 #include <ThingSpeak.h>
+
 #include <DHT.h>  // Including library for dht
+
 #include <ESP8266WiFi.h>
  
 String apiKey = "KR82J8DVFUCUQ44C";   //  Enter your Write API key from ThingSpeak
